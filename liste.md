@@ -21,7 +21,7 @@
 21. **2012** - Barbe bleue
 22. **2013** - ~~La Nostalgie heureuse~~
 23. **2014** - Pétronille
-24. **2015** - Le Crime du comte Neville
+24. **2015** - ~~Le Crime du comte Neville~~
 25. **2016** - ~~Riquet à la houppe~~
 26. **2017** - Frappe-toi le cœur
 27. **2018** - Les Prénoms épicènes
@@ -29,3 +29,4 @@
 29. **2020** - Les Aérostats
 30. **2021** - ~~Premier sang~~
 31. **2022** - Les Corps étrangers
+32. **2023** - Psychopompe
