@@ -11,7 +11,7 @@
 11. **2002** - ~~Robert des noms propres~~
 12. **2003** - ~~Antéchrista~~
 13. **2004** - ~~Biographie de la faim~~
-14. **2005** - Acide sulfurique
+14. **2005** - ~~Acide sulfurique~~
 15. **2006** - ~~Journal d'Hirondelle~~
 16. **2007** - ~~Ni d'Ève ni d'Adam~~
 17. **2008** - ~~Le Fait du prince~~
