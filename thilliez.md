@@ -1,14 +1,14 @@
 | Année | Titre | Série Sharko/Hennebelle |
 |-------|-------|-------------------------|
 | 2002 | Conscience animale | Non | 
-| 2003 | Train d'enfer pour Ange rouge | Oui |
-| 2005 | La Chambre des morts | Oui |
+| 2003 | **Train d'enfer pour Ange rouge** | Oui |
+| 2005 | **La Chambre des morts** | Oui |
 | 2006 | Deuils de miel | Oui |
 | 2006 | La Forêt des ombres | Non |
 | 2007 | La Mémoire fantôme | Oui |
 | 2008 | L'Anneau de Moebius | Non |
 | 2010 | Le Syndrome E | Oui |
-| 2011 | Gataca | Oui |
+| 2011 | **Gataca** | Oui |
 | 2012 | Atom[ka] | Oui |
 | 2013 | **Puzzle** | Non |
 | 2014 | Angor | Oui |
